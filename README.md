@@ -1,4 +1,4 @@
-### Hello Friend 👋🏾 I'm Kayla !
+### Hello Friend 👋🏾  I'm Kayla !
 
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about: Mr Robot, domino art, my white whale record, my emo/scene (its not a) phase
