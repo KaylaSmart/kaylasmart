@@ -1,12 +1,10 @@
-### Hello Friend 
-
-### Kayla here!
+### Hello Friend 👋🏾👋🏾👋🏾 ### Kayla here!
 
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about: Mr Robot, domino art, my white whale record, my emo/scene (its not a) phase
 - 📫 How to reach me: kaysmartcode@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Seinfeld Trivia Champion, Ravenclaw 
+- ⚡ Fun fact: Seinfeld Trivia Champion, Ravenclaw, still uses a Gameboy Color 
 
 <!--
 **KaylaSmart/kaylasmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
