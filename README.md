@@ -5,6 +5,7 @@
 - 📫 How to reach me: kaysmartcode@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Seinfeld Trivia Champion, Ravenclaw, still uses a Gameboy Color 
+- 📺 Last Show I binged: Behind Her Eyes
 
 <!--
 **KaylaSmart/kaylasmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
