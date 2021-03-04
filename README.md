@@ -1,6 +1,6 @@
 ### Hello Friend 👋🏾  I'm Kayla !
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter/Dart
 - 💬 Ask me about: Mr Robot, domino art, my white whale record, my emo/scene (its not a) phase
 - 📫 How to reach me: kaysmartcode@gmail.com
 - 😄 Pronouns: She/Her
