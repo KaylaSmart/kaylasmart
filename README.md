@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 - 
 -->
+<a href="https://app.daily.dev/nodeks"><img src="https://api.daily.dev/devcards/32c3a13d1aae44ea8a2f9a1a75e1de4d.png?r=bql" width="400" alt="Kayla Smart's Dev Card"/></a>
