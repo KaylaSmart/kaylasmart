@@ -5,7 +5,7 @@
 - 📫 How to reach me: kaylasmart.sde@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Barack Obama follows me on twitter @node_ks
-- 📺 Last Show I binged: Squid Game 
+- 📺 Last Show I binged: 60 Days In Season 6
 
 <!--
 **KaylaSmart/kaylasmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
