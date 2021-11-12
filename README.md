@@ -1,6 +1,6 @@
 ### Hello Friend 👋🏾  I'm Kayla !
 
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Vue.js
 - 💬 Ask me about: Mr Robot, domino art, my white whale record, my emo/scene phase( not a phase)
 - 📫 How to reach me: kaylasmart.sde@gmail.com
 - 😄 Pronouns: She/Her
