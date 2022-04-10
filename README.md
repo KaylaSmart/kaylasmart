@@ -5,7 +5,7 @@
 - 📫 How to reach me: kaylasmart.sde@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Barack Obama follows me on twitter @node_ks
-- 📺 Last Show I binged: Ozark
+- 📺 Last Show I binged: Severance 
 
 <!--
 **KaylaSmart/kaylasmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
