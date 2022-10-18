@@ -1,7 +1,7 @@
 ### Hello Friend 👋🏾  I'm Kayla !
 
 - 🌱 I’m currently learning Vue.js, AWS
-- 💬 Ask me about: Mr Robot, domino art
+- 💬 Ask me about: Mr Robot, Domino Masters
 - 📫 How to reach me: kaylasmart.sde@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: President Barack Obama follows me on twitter @node_ks
